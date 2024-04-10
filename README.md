@@ -36,11 +36,9 @@ My proficiency spans across a range of technologies including,
 ✅Developing Restful Api's <br />
 ✅Intergration Payment Api's such as Peach Payment,Cybersource and Skyflow for card tokenization and <br /> some interesting soapapi such as XDS Credit Information Bureau for processing loan applications for one the award winning apps i was building called stokfella   <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="httpsA//lirp.cdn-website.com/f2b84127/dms3rep/multi/opt/StokFella_Logo_White-202w.png">
-  <source media="(prefers-color-scheme: light)" srcset="httpsA//lirp.cdn-website.com/f2b84127/dms3rep/multi/opt/StokFella_Logo_White-202w.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="httpsA//lirp.cdn-website.com/f2b84127/dms3rep/multi/opt/StokFella_Logo_White-202w.png">
-</picture>
+
+<img src="httpsA//lirp.cdn-website.com/f2b84127/dms3rep/multi/opt/StokFella_Logo_White-202w.png" width="128"/>
+
 
 
 
