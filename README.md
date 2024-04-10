@@ -36,13 +36,6 @@ My proficiency spans across a range of technologies including,
 ✅Developing Restful Api's <br />
 ✅Intergration Payment Api's such as Peach Payment,Cybersource and Skyflow for card tokenization and <br /> some interesting soapapi such as XDS Credit Information Bureau for processing loan applications for one the award winning apps i was building called stokfella   <br />
 
-
-<img src="httpsA//lirp.cdn-website.com/f2b84127/dms3rep/multi/opt/StokFella_Logo_White-202w.png" width="128"/>
-
-
-
-
-
 📊 I thrive in the realm of data-driven decision-making, leveraging technologies like machine learning and data analytics to extract actionable insights from financial data.
 Whether it's predictive modeling for risk assessment or real-time market analysis, I'm passionate about harnessing the power of data to drive informed financial decisions.
 
