@@ -49,5 +49,6 @@ Whether it's attending workshops, participating in hackathons, or devouring tech
 💡 When I'm not coding, you can find me tinkering with new gadgets, exploring the great outdoors, or immersing myself in a good book.
 I believe in maintaining a healthy work-life balance to stay refreshed and inspired.
 
-📫 Interested in collaborating or have an exciting project in mind? Feel free to reach out! Let's connect and create something extraordinary together.
-Happy coding! 🚀
+📫 Interested in collaborating or have an exciting project in mind? Feel free to reach out! Let's connect and create something extraordinary together. <br />
+
+🚀 Happy coding! 
