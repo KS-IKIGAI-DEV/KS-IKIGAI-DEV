@@ -24,7 +24,7 @@ My proficiency spans across a range of technologies including,
 ✅Angular <br />
 ✅Asp.Net <br />
 ✅Internet information Service <br />
-✅Net Core <br />
+✅Dot Net Core <br />
 ✅Jira <br />
 ✅Entity Framework <br />
 ✅Dapper Framework <br />
