@@ -30,7 +30,7 @@ My proficiency spans across a range of technologies including,
 ✅Dapper Framework <br />
 ✅Github Version Control <br />
 ✅Developing Restful Api's <br />
-✅Intergration Payment Api's such as Peach Payment,Cypersource and Skyflow for card tokenization <br />
+✅Intergration Payment Api's such as Peach Payment,Cybersource and Skyflow for card tokenization <br />
 
 📊 I thrive in the realm of data-driven decision-making, leveraging technologies like machine learning and data analytics to extract actionable insights from financial data.
 Whether it's predictive modeling for risk assessment or real-time market analysis, I'm passionate about harnessing the power of data to drive informed financial decisions.
