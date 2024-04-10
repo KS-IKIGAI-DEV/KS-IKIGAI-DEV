@@ -34,8 +34,14 @@ My proficiency spans across a range of technologies including,
 ✅Dapper Framework <br />
 ✅Github Version Control <br />
 ✅Developing Restful Api's <br />
-✅Intergration Payment Api's such as Peach Payment,Cybersource and Skyflow for card tokenization and <br /> some interesting soapapi such as XDS Credit Information Bureau for processing loan applications for one the awaring winning apps i was building called stokfella  <br />
-<button type="button">Click Me!</button>
+✅Intergration Payment Api's such as Peach Payment,Cybersource and Skyflow for card tokenization and <br /> some interesting soapapi such as XDS Credit Information Bureau for processing loan applications for one the award winning apps i was building called stokfella   <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 
 📊 I thrive in the realm of data-driven decision-making, leveraging technologies like machine learning and data analytics to extract actionable insights from financial data.
 Whether it's predictive modeling for risk assessment or real-time market analysis, I'm passionate about harnessing the power of data to drive informed financial decisions.
