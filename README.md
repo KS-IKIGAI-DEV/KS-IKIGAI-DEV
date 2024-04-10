@@ -13,6 +13,10 @@ My proficiency spans across a range of technologies including,
 ✅Typescript <br />
 ✅Javascript <br />
 ✅Blazor <br />
+✅MS SQL <br />
+✅MySql <br />
+✅Firebase <br />
+✅PL SQL <br />
 ✅Razor Pages <br />
 ✅MVC <br />
 ✅Flutter <br />
