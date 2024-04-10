@@ -5,33 +5,32 @@ With a solid background in both finance and software development, I bring a uniq
 
 💻 My expertise lies in developing cutting-edge fintech applications that streamline financial processes and enhance user experiences.
 From algorithmic trading platforms to secure payment gateways, I specialize in crafting robust, scalable solutions that meet the demands of today's dynamic financial landscape.
-
-💻 I specialize in C#/.Net Core and Javascript Frameworks such as Angular and NextJS,
+And I specialize in C#/.Net Core and Javascript Frameworks such as Angular and NextJS,
 whether it's web development, mobile applications, or system architecture.
 My proficiency spans across a range of technologies including,
 
-Typescript
-Javascript
-Blazor
-Razor Pages
-MVC
-Flutter
-Asp.Net Core Web Api
-Dot Net Maui
-Dot Net Maui Blazor
-Git Version Control 
-Azure DevOps
-Angular
-Asp.Net
-Internet information Service
-Net Core
-Jira
-Entity Framework
-Dapper Framework
-Git hub
-Developing Restful Api's
-Intergration Payment Api's such as Peach Payment,Cypersource and Skyflow for card tokenization
-,From front-end frameworks like React and Angular to back-end technologies like C# or Dot Net, I thrive in diverse tech stacks.
+✅Tailwind CSS <br />
+✅Typescript <br />
+✅Javascript <br />
+✅Blazor <br />
+✅Razor Pages <br />
+✅MVC <br />
+✅Flutter <br />
+✅Asp.Net Core Web Api <br />
+✅Dot Net Maui <br />
+✅Dot Net Maui Blazor <br />
+✅Git Version Control  <br />
+✅Azure DevOps <br />
+✅Angular <br />
+✅Asp.Net <br />
+✅Internet information Service <br />
+✅Net Core <br />
+✅Jira <br />
+✅Entity Framework <br />
+✅Dapper Framework <br />
+✅Github Version Control <br />
+✅Developing Restful Api's <br />
+✅Intergration Payment Api's such as Peach Payment,Cypersource and Skyflow for card tokenization <br />
 
 📊 I thrive in the realm of data-driven decision-making, leveraging technologies like machine learning and data analytics to extract actionable insights from financial data.
 Whether it's predictive modeling for risk assessment or real-time market analysis, I'm passionate about harnessing the power of data to drive informed financial decisions.
@@ -47,7 +46,7 @@ Whether it's exploring blockchain for decentralized finance or studying regulato
 I stay updated with the latest advancements in the tech industry, eagerly exploring emerging technologies and methodologies. 
 Whether it's attending workshops, participating in hackathons, or devouring tech blogs, I'm always seeking opportunities to broaden my horizons.
 
-🔧 When I'm not coding, you can find me tinkering with new gadgets, exploring the great outdoors, or immersing myself in a good book.
+💡 When I'm not coding, you can find me tinkering with new gadgets, exploring the great outdoors, or immersing myself in a good book.
 I believe in maintaining a healthy work-life balance to stay refreshed and inspired.
 
 📫 Interested in collaborating or have an exciting project in mind? Feel free to reach out! Let's connect and create something extraordinary together.
