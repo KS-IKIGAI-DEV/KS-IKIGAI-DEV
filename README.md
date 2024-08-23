@@ -23,7 +23,6 @@ My proficiency spans across a range of technologies including,
 ✅Asp.Net Core Web Api <br />
 ✅Dot Net Maui <br />
 ✅Dot Net Maui Blazor <br />
-✅Azure DevOps <br />
 ✅Angular <br />
 ✅Asp.Net <br />
 ✅Internet information Service <br />
